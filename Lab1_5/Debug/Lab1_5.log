@@ -1,0 +1,11 @@
+﻿  Pair.cpp
+  Rational.cpp
+  Source.cpp
+C:\Users\Вова\OneDrive\Рабочий стол\ООП\lab1_5-master\Lab1_5\Source.cpp(29,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вова\OneDrive\Рабочий стол\ООП\lab1_5-master\Lab1_5\Source.cpp(34,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вова\OneDrive\Рабочий стол\ООП\lab1_5-master\Lab1_5\Source.cpp(39,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вова\OneDrive\Рабочий стол\ООП\lab1_5-master\Lab1_5\Source.cpp(7,19): warning C4101: d: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\Вова\OneDrive\Рабочий стол\ООП\lab1_5-master\Lab1_5\Rational.cpp(45): warning C4715: Rational::ComparePairs: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\Вова\OneDrive\Рабочий стол\ООП\lab1_5-master\Debug\Lab1_5.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Lab1_5.vcxproj -> C:\Users\Вова\OneDrive\Рабочий стол\ООП\lab1_5-master\Debug\Lab1_5.exe

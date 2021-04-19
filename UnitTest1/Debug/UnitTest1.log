@@ -1,0 +1,3 @@
+﻿  UnitTest1.cpp
+C:\Users\Admin\source\repos\Lab1_5\Lab1_5\Rational.cpp(43): warning C4715: Rational::ComparePairs: значение возвращается не при всех путях выполнения
+  UnitTest1.vcxproj -> C:\Users\Admin\source\repos\Lab1_5\Debug\UnitTest1.dll
